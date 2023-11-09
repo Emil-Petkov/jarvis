@@ -19,9 +19,9 @@ engine.setProperty("voice", voices[1].id)
 
 # Добавете останалите контакти тук
 contacts = {
-    "number one": "E_Petkov@protonmail.com",
-    "number two": "emil.ivanchev.petkov@gmail.com",
-    "number three": "emil.ivanchev.petkov@abv.bg",
+    "number one": "Your email",
+    "number two": "",
+    "number three": "",
 }
 
 
